@@ -7,7 +7,7 @@
 
 ## Overview
 
-Welcome to the D-tec Software Solution Ltd. GitHub repository. This repository gives a tour of our software company and developers. It is developed to address various technological challenges and provide solutions for our clients and the broader community.
+Welcome to the D-tec Software Solution Ltd. GitHub repository. This repository gives you a tour of our software company and developers. It is developed to address various technological challenges and provide solutions for our clients and the broader community.
 
 ### About D-Tec
 
