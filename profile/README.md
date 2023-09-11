@@ -11,7 +11,7 @@ Welcome to the D-tec Software Solution Ltd. GitHub repository. This repository g
 
 ### About D-Tec
 
-D-Tec, founded by visionary technocrats, transforms creative ideas into innovative solutions. Committed to customer satisfaction, we excel in E-Governance, CRM, Data Analysis, MIS, Customer Care, Web & Mobile App Development, and E-commerce. Our mission: Building a better tomorrow through standardized technology and collaboration.
+D-Tec, founded by visionary technocrats, transforms creative ideas into innovative solutions. Committed to customer satisfaction, we excel in E-Governance, CRM, Data Analysis, MIS, Customer Care, Web & Mobile App Development, and E-commerce.
 
 ## Services
 
